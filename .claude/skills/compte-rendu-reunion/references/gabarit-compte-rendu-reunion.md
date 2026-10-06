@@ -8,13 +8,14 @@
 ## Résumé
 Cinq lignes maximum : le contexte, le besoin principal, les décisions majeures.
 
-## Contexte et objectifs de la cliente
--
+## Qui est la cliente et ce qui compte pour elle
+Quelques phrases rédigées : sa situation, ce qui la gêne, ce qu'elle espère, ses refus. Ses mots courts entre guillemets.
 
 ## Besoins exprimés
-| Réf | Besoin | Exprimé par | Priorité annoncée |
-|---|---|---|---|
-| B-01 | | | |
+Une ligne par besoin, formulée simplement, sans horodatage.
+| Réf | Besoin | Priorité annoncée |
+|---|---|---|
+| B-01 | | |
 
 ## Contraintes citées
 Budget, délais, technique, légal.
@@ -33,10 +34,12 @@ Budget, délais, technique, légal.
 |---|---|---|
 | | | |
 
-## Ambiguïtés et contradictions relevées
-| Point | Extrait de la transcription | Question à poser |
-|---|---|---|
-| | | |
+## Ambiguïtés et contradictions à lever
+Les points qui bloquent la suite ou changent le périmètre, le budget ou le délai.
+| Point | Question à poser |
+|---|---|
+| | |
 
-## Passages douteux de la transcription
+## Remarques sur la transcription
+Uniquement si elle est incomplète ou douteuse. Ici seulement, un horodatage peut être cité.
 -
