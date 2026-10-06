@@ -1,9 +1,9 @@
 # Projet Douce Patte
 
-Phase actuelle : démarrage. Le client, le besoin et le type de projet ne sont pas encore connus : ne rien supposer.
+Phase actuelle : démarrage. La cliente, son besoin et le type de projet ne sont pas encore connus : ne rien supposer.
 
 ## Rôles
-- Product Owner (utilisateur) : échange avec le client, valide tout.
+- Product Owner : Yanis Belkacem. Échange avec la cliente, valide tout et tranche les décisions.
 
 ## Conventions
 - Documents : français.
