@@ -1,0 +1,6 @@
+# Documents bruts reçus de l'extérieur (données client) : jamais versionnés
+docs/entrees/*
+!docs/entrees/.gitkeep
+
+# Réglages personnels de Claude Code
+.claude/settings.local.json
